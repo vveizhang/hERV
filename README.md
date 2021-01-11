@@ -1,7 +1,7 @@
 **==hERV expression in Psychiatric Disorder Patients #3F51B5==**
 
 
-![ERV in genome](file:///H:/hERV/Files/Picture1.jpg)
+![ERV in genome](./Files/Picture1.jpg)
 
 About 8% of human genome are come from retroviruses. hERVs are relics of ancient multiple infections that affected human germ line along the last 100 million of years, and became stable elements at the genome. Most hERVs are not active and functional due to the interruptions caused by multiple insertions/mutations. To investigate the expression of hERVs from RNA-seq data may find a missing piece to the human transcriptome jigsaw puzzle.   
 
