@@ -1,7 +1,7 @@
 
 # hERVs expressions in Psychiatric Disorders Patients
 
-
+## Background
 
 ![ERV in genome](./Files/Picture1.jpg)
 
@@ -13,7 +13,7 @@ About 8% of human genome are come from retroviruses. hERVs are relics of ancient
 ![hERV_structure](./Files/hERV_structure.png)
 
 
-
+## Build up the RNA-seq analysis pipeline
 
 Download the annotation file from: https://github.com/mlbendall/telescope_annotation_db/tree/master/builds
 
@@ -56,6 +56,9 @@ hg38ERV_index/hg38_hERV \
 rsem/Sample1
 ```
 
+
+## Identify differential expressed genes
+
 Use DESeq2 R package to identify differential expressed genes(hERVs):
 
 There is only one differential expressed hERV from the Whole blood RNA-seq
@@ -79,4 +82,4 @@ There are many differential expressed hERVs and genes in the Laser capture micro
 
 ![DG-GCL-SCZ](./Files/DG-GCL-SCZ.png)
 
-To be continued.....
+
