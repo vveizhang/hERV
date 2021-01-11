@@ -1,4 +1,4 @@
-**==hERV expression in Psychiatric Disorder Patients #3F51B5==**
+hERV expression in Psychiatric Disorder Patients
 
 
 ![ERV in genome](./Files/Picture1.jpg)
