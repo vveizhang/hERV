@@ -8,7 +8,7 @@ About 8% of human genome are come from retroviruses. hERVs are relics of ancient
 
 
 
-![hERV_structure](file:///H:/hERV/Files/hERV_structure.png)
+![hERV_structure](./Files/hERV_structure.png)
 
 
 
@@ -38,7 +38,7 @@ hg38ERV_index/hg38_hERV
 
 
 Download raw fastq files from these three datasets.
-![Datasets](file:///H:/hERV/Files/Table1.jpg)
+![Datasets](./Files/Table1.jpg)
 
 
 
@@ -58,23 +58,23 @@ Use DESeq2 R package to identify differential expressed genes(hERVs):
 
 There is only one differential expressed hERV from the Whole blood RNA-seq
 
-![DE_blood](file:///H:/hERV/Files/DE_blood.png)
+![DE_blood](./Files/DE_blood.png)
 
 There are 6 differential expressed hERV from the Hippocampus bulk RNA-seq
 
-![H1](file:///H:/hERV/Files/H1.png)
-![H2](file:///H:/hERV/Files/H2.png)
-![H3](file:///H:/hERV/Files/H3.png)
-![H4](file:///H:/hERV/Files/H4.png)
-![H5](file:///H:/hERV/Files/H5.png)
-![H6](file:///H:/hERV/Files/H6.png)
+![H1](./Files/H1.png)
+![H2](./Files/H2.png)
+![H3](./Files/H3.png)
+![H4](./Files/H4.png)
+![H5](./Files/H5.png)
+![H6](./Files/H6.png)
 
 
 There are many differential expressed hERVs and genes in the Laser capture microdissection (LCM) of the granule cell layer of the dentate gyrus (DG-GCL) in human hippocampus. Maybe because the high purity of the cell source.
 
-![DG-GCL-BP](file:///H:/hERV/Files/DG-GCL-BP.png)
+![DG-GCL-BP](./Files/DG-GCL-BP.png)
 
 
-![DG-GCL-SCZ](file:///H:/hERV/Files/DG-GCL-SCZ.png)
+![DG-GCL-SCZ](./Files/DG-GCL-SCZ.png)
 
 To be continued.....
