@@ -77,9 +77,6 @@ There are 6 differential expressed hERV from the Hippocampus bulk RNA-seq
 
 There are many differential expressed hERVs and genes in the Laser capture microdissection (LCM) of the granule cell layer of the dentate gyrus (DG-GCL) in human hippocampus. Maybe because the high purity of the cell source.
 
-![DG-GCL-BP](./Files/DG-GCL-BP.png)
-
-
 ![DG-GCL-SCZ](./Files/DG-GCL-SCZ.png)
 
 
